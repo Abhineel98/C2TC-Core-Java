@@ -1,5 +1,7 @@
+package com.cg.core;
 
-public class Array_Demo {
+public class ArrayDemo 
+{
 
 	public static void main(String[] args) {
 		

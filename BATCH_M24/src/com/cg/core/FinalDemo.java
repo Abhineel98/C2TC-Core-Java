@@ -11,14 +11,14 @@ public class FinalDemo {
 		
 	}	
 
-	final class Parent
+	class Parent
 	{
 		void property()
 		{
 			System.out.println("house wealth plots jwellery car");
 		}
 		//parent class method
-		final void marry()
+		void marry()
 		{
 			System.out.println("Srilatha");
 			
